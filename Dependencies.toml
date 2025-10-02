@@ -342,7 +342,7 @@ modules = [
 [[package]]
 org = "nalaka"
 name = "firestore"
-version = "1.0.3"
+version = "1.0.4"
 dependencies = [
 	{org = "ballerina", name = "http"},
 	{org = "ballerina", name = "io"},
